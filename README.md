@@ -17,3 +17,15 @@
 🧠 **Smart Insights:** Receive personalized tips based on your spending behavior.
 
 Take the guesswork out of managing your money—let Spendology guide you to smarter spending!
+
+#### Technologies Used
+
+`Framework: Flutter (Dart)`
+
+`Backend: Firebase`
+
+`Hosting: AWS`
+
+`AI Libraries: TensorFlow for AI-driven predictions and recommendations`
+
+`Design: Figma for the user interface design and wireframes`
