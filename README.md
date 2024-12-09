@@ -22,7 +22,9 @@ Take the guesswork out of managing your money—let Spendology guide you to smar
 
 `Framework: Flutter (Dart)`
 
-`Backend: Firebase`
+`Backend: NodeJs`
+
+`DB: Firebase`
 
 `Hosting: AWS`
 
