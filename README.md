@@ -1,6 +1,6 @@
 ### Spendology 💸
 
-#### Spendology is a smart and intuitive personal finance management app designed to help you take control of your spending and achieve your financial goals. With easy-to-use tools for budgeting, expense tracking, and predictive analytics, Spendology provides valuable insights into your financial habits, ensuring you're always one step ahead of your finances..
+#### Spendology is a smart and intuitive personal finance management app designed to help you take control of your spending and achieve your financial goals. With easy-to-use tools for budgeting, expense tracking, and predictive analytics, Spendology provides valuable insights into your financial habits, ensuring you're always one step ahead of your finances...
 
 `Key Features:`
 
