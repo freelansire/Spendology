@@ -8,7 +8,7 @@
 
 🎯 **Financial Goal Setting:** Set and track your savings or investment goals with ease.
 
-📊 **Predictive Analytics:** Use AI to predict upcoming expenses and suggest budget adjustments.
+📊 **Predictive Analytics:** Use AI to predict upcoming expenses and suggest budget adjustments..
 
 📅 **Monthly Budgeting:** Create custom budgets and track them over time.
 
